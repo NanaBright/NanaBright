@@ -7,9 +7,7 @@
 
   <img src="https://raw.githubusercontent.com/NanaBright/assets/main/coding-character.svg" width="100%" alt="Animated coding character" />
 
-  <p>
-    <sub>Character SVG is hosted in NanaBright/assets for profile-ready rendering.</sub>
-  </p>
+  
 </div>
 
 <p align="center">
