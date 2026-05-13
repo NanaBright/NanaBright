@@ -59,7 +59,7 @@
 | WeatherWave | AI-enhanced weather app with PWA support | Next.js, TypeScript, OpenWeather API | https://weather-wave-chi.vercel.app/ |
 | Eldo | Ethereum dApp for transfers with metadata | React, Solidity, Hardhat, Ethers.js | https://eldo-five.vercel.app/ |
 | Lippty | Multi-vendor e-commerce marketplace | Laravel, Vue, MySQL | https://lippty.com/ |
-| Slatetnd | Mobile-first Ghana business directory | Next.js, Tailwind CSS, Maps | https://slatetnd.vercel.app/ |
+| Slatetrends | Mobile-first Ghana business directory | Next.js, Tailwind CSS, Maps | https://slatetrends.com/ |
 | TRYST | Event platform with interactive polling | Next.js, TypeScript, Node.js | https://tryst-psi.vercel.app/ |
 
 ## Open Source Work
