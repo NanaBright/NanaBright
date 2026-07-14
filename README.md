@@ -62,28 +62,7 @@
 | Slatetrends | Mobile-first Ghana business directory | Next.js, Tailwind CSS, Maps | https://slatetrends.com/ |
 | TRYST | Event platform with interactive polling | Next.js, TypeScript, Node.js | https://tryst-psi.vercel.app/ |
 
-## Open Source Work
 
-<p align="center">
-  <a href="https://github.com/NanaBright/ludwig">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanaBright&repo=ludwig&theme=github_dark&hide_border=false&border_color=30363d&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Ludwig" />
-  </a>
-  <a href="https://github.com/NanaBright/laravel-auth-starter-kits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NanaBright&repo=laravel-auth-starter-kits&theme=github_dark&hide_border=false&border_color=30363d&title_color=7ee787&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" alt="Laravel Auth Starter Kits" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NanaBright">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NanaBright&theme=github_dark" alt="GitHub Profile Details" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/NanaBright">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NanaBright&theme=github_dark" alt="GitHub Profile Stats" />
-  </a>
-</p>
 
 ## Stack Matrix
 
